@@ -13,7 +13,7 @@ docker-compose build
 Comando para utilizar o ambiente de desenvolvimento criado:
 
 ```
-docker-compose up -d
+docker-compose up -d --build
 ```
 
 ## Visual Studio Code
