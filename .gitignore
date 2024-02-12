@@ -11,7 +11,10 @@ git
 /aulas/1-semestre/8-Metodos Ageis II/
 /aulas/2-semestre/01-Containers I (Kubernets)/
 /aulas/2-semestre/02-Containers II (Kubernets)/
+/aulas/2-semestre/03-Microsserviços I/
+/aulas/2-semestre/04-Microsserviços II/
 
 #extensões ignoradas
 *.pdf
 *.zip
+*.code-workspace
