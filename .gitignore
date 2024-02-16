@@ -13,6 +13,8 @@ git
 /aulas/2-semestre/02-Containers II (Kubernets)/
 /aulas/2-semestre/03-Microsserviços I/
 /aulas/2-semestre/04-Microsserviços II/
+/aulas/2-semestre/05-Serverless I/
+/aulas/2-semestre/06-Serverless II/
 
 #extensões ignoradas
 *.pdf
